@@ -1,14 +1,14 @@
 <resources>
-    <string name="app_name">Soccer News</string>
+    <string name="app_name">Noticias do futebol feminino</string>
 
-    <string name="title_news">News</string>
-    <string name="title_favorites">Favorites</string>
+    <string name="title_news">Noticias</string>
+    <string name="title_favorites">Favoritos</string>
 
     <string name="cd_news_image">News image.</string>
     <string name="cd_favorite_icon">Favorite icon.</string>
     <string name="cd_share_icon">Share icon.</string>
 
-    <string name="txt_open_link">Open Link</string>
+    <string name="txt_open_link">Abrir Noticia</string>
 
-    <string name="error_network">Network error.</string>
+    <string name="error_network">Sem acesso a rede.</string>
 </resources>
